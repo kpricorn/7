@@ -13,7 +13,7 @@ fib(3)  println
 fib(4)  println
 fib(44) println
 
-"recursively" println
+"recursion" println
 
 fib = method(offset, index, window,
   index ifNil(index = 0)
